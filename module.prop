@@ -1,0 +1,6 @@
+id=miui-12-fix-force-dark
+name=Fixes the Force Dark setting on Miui 12 [MIUI][Xiaomi.eu][Android 10]
+version=v1
+versionCode=1
+author=alex4o
+description=Fix the Force Dark setting on Miui 12 by patching services.apk
